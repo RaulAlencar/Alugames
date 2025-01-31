@@ -1,2 +1,2 @@
 # Alugames
-Aplicação curso Logica de programação alura
+Aplicação de status de locação de games curso Logica de programação alura
